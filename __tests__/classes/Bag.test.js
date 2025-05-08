@@ -1,7 +1,4 @@
-// import Bag from "../../classes/Bag"
 const Bag = require('../../classes/Bag')
-// import Bag from "../../classes/Person"
-// import { describe, expect } from "@jest/globals"
 
 describe("Bag Class", () => {
     // new Bag(weight, id, owner)
